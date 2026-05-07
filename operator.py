@@ -1,4 +1,5 @@
 a = 32
 b = 4
-result = a + b
+c= 5
+result = a + b +c
 print(result)
